@@ -15,8 +15,8 @@ This system allows you to perform real-time facial recognition and register new 
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/facial-recognition.git
-   cd facial-recognition
+   git clone [[https://github.com/Hxrshrathore/facial-recognition-system]]
+   cd facial-recognition-system
    ```
 
 3. Download the pre-trained `shape_predictor_68_face_landmarks.dat` model and place it in the `models/` directory.
